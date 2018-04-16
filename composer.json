@@ -2,7 +2,7 @@
   "name": "popcorn4dinner/string-format",
   "description": "A flexible, simple to use and non-opinionated collection library",
   "type": "library",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "config": {
     "preferred-install": "dist"
