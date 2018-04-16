@@ -1,0 +1,2 @@
+* PHP Policies
+A PHP library to easily model complex rules or policies for validations, access control, etc

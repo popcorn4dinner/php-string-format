@@ -1,0 +1,13 @@
+# IDEs
+.#*
+.idea
+.iml
+
+# OSX
+.DS_Store
+
+#artifacts
+tests/_output/*
+tmp
+vendor/
+node_modules
