@@ -1,2 +1,19 @@
-* PHP Policies
-A PHP library to easily model complex rules or policies for validations, access control, etc
+* PHP String Format
+A PHP library to change cases of strings. For example from CamelCase to snake_case.
+** camel case
+#+BEGIN_SRC php
+echo StringFormat::toCamelCase('it_works');
+// itWorks
+#+END_SRC
+
+** snake case
+#+BEGIN_SRC php
+echo StringFormat::toSnakeCase('ItWorks');
+// it_works
+#+END_SRC
+
+** pascal case
+#+BEGIN_SRC php
+echo StringFormat::toPascalCase('it_works');
+// ItWorks
+#+END_SRC
