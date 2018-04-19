@@ -1,8 +1,8 @@
 {
   "name": "popcorn4dinner/string-format",
-  "description": "A flexible, simple to use and non-opinionated collection library",
+  "description": "A non-opinionated implementation of the presenter pattern",
   "type": "library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "config": {
     "preferred-install": "dist"
